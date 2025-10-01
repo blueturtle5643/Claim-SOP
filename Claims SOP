@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
+  <diagram name="Page-1" id="o0IZVoXz8-i325Fnfb4R">
+    <mxGraphModel dx="2276" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-1" value="&lt;h1&gt;Claims SOP&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="20" width="305" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-8" value="XSD Claims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-9" value="Progress Checks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-10" value="Individual Claims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-11" value="Questions/Requests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-12" value="&lt;div&gt;Outlook&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Claims@greenergycorp.com&lt;/font&gt;&lt;/h1&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="190" height="110" as="geometry">
+            <mxRectangle x="570" y="90" width="190" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;May (Liaison from China) will email you about claims.&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="B2GL8GIh1JGOUhjb2UOY-23">
+          <mxGeometry y="30" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B2GL8GIh1JGOUhjb2UOY-12" target="B2GL8GIh1JGOUhjb2UOY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B2GL8GIh1JGOUhjb2UOY-28" target="B2GL8GIh1JGOUhjb2UOY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B2GL8GIh1JGOUhjb2UOY-28" target="B2GL8GIh1JGOUhjb2UOY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="280" />
+              <mxPoint x="266" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B2GL8GIh1JGOUhjb2UOY-28" target="B2GL8GIh1JGOUhjb2UOY-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="280" />
+              <mxPoint x="586" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B2GL8GIh1JGOUhjb2UOY-28" target="B2GL8GIh1JGOUhjb2UOY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-28" value="Types of Emails:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B2GL8GIh1JGOUhjb2UOY-28" target="B2GL8GIh1JGOUhjb2UOY-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="240" as="sourcePoint" />
+            <mxPoint x="-340" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-40" value="Bi Weekly Claims" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="310" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="B2GL8GIh1JGOUhjb2UOY-40" source="B2GL8GIh1JGOUhjb2UOY-42" target="B2GL8GIh1JGOUhjb2UOY-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-42" value="Parent" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B2GL8GIh1JGOUhjb2UOY-40">
+          <mxGeometry x="20" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-43" value="Child" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B2GL8GIh1JGOUhjb2UOY-40">
+          <mxGeometry x="20" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="B2GL8GIh1JGOUhjb2UOY-45" source="B2GL8GIh1JGOUhjb2UOY-43" parent="B2GL8GIh1JGOUhjb2UOY-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2GL8GIh1JGOUhjb2UOY-45" value="Child" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B2GL8GIh1JGOUhjb2UOY-40">
+          <mxGeometry x="140" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
